@@ -51,11 +51,21 @@ Vehicle Detection & Traffic Signal Detection: Utilizes Haar-cascade ML algorithm
 
 Achieves near 20 FPS using OpenMP threading for parallel processing on Ubuntu with OpenCV 4.1.1.
 ## Cardiac Arrhythmia Detection: 
-Created a deep learning model for ECG data analysis, achieving 87% accuracy.
-## Real-Time Chat Application: 
-Built a scalable chat application with WebSocket, Node.js, and Redis.
+Led the development of a deep learning model to detect cardiac arrhythmia from ECG data, aiding in early diagnosis and potentially saving lives. This project involved:
 
-Automated Testing Framework: Developed with Selenium and Python, integrated into CI/CD pipelines.
+Data Processing and Model Building: Used Python and the K-Nearest Neighbors (KNN) algorithm to classify ECG signals, achieving 87% accuracy.
+
+Collaboration with Medical Experts: Worked closely with cardiologists to ensure the model’s clinical relevance, integrating expert feedback to refine the model's performance for real-world healthcare settings.
+
+Outcome: The model demonstrated promising results in early arrhythmia detection, laying the groundwork for future research in AI-driven healthcare applications.
+## Real-Time Chat Application: 
+Built a full-featured, scalable chat application that supports real-time messaging, providing a seamless communication experience. The project involved:
+
+Backend Development: Utilized Node.js and WebSocket technology to create a responsive server capable of handling multiple simultaneous connections.
+
+Frontend Development: Built the client-side with React, integrating features such as one-on-one messaging, group chats, and message notifications for a user-friendly interface.
+
+Performance and Scalability: Implemented Redis for session management, optimizing WebSocket connections to ensure low latency and high responsiveness, allowing the application to scale effectively.
 
 # 🌟 Let's Connect!
 I’m always eager to learn and collaborate on exciting projects. Connect with me on LinkedIn or email me at amoschavan10@gmail.com. Let's create impactful solutions together!
