@@ -1,8 +1,10 @@
-👋 Hello! I'm Amos Chavan
-🚀 Software Engineer | ML Enthusiast
-I'm currently a Master’s student in Computer Science at California State University, Chico, with a passion for combining machine learning and software engineering to solve real-world problems. With hands-on experience in data engineering, web development, and automation, I thrive in fast-paced, collaborative environments where innovative solutions are encouraged.
+# 👋 Hello! I'm Amos Chavan
+# 🚀 Software Engineer | ML Enthusiast
+I'm currently a Master’s student in Computer Science at California State University, Chico, with a passion for combining machine learning and software engineering to solve real-world problems. 
 
-📂 Skills
+With hands-on experience in data engineering, web development, and automation, I thrive in fast-paced, collaborative environments where innovative solutions are encouraged.
+
+# 📂 Skills
 #### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -36,15 +38,25 @@ I'm currently a Master’s student in Computer Science at California State Unive
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 
 
-📂 Noteworthy Projects
-AV/ADAS Project: Developed an advanced driver assistance system (ADAS) to provide real-time information to drivers, enhancing road safety. Key features include:
+# 📂 Noteworthy Projects
+
+## AV/ADAS Project: 
+Developed an advanced driver assistance system (ADAS) to provide real-time information to drivers, enhancing road safety. Key features include:
+
 Lane Detection: Uses Region of Interest, Hough Line detection, and a filtration algorithm.
+
 Pedestrian Detection: Implemented with an SVM ML algorithm.
+
 Vehicle Detection & Traffic Signal Detection: Utilizes Haar-cascade ML algorithms.
+
 Achieves near 20 FPS using OpenMP threading for parallel processing on Ubuntu with OpenCV 4.1.1.
-Cardiac Arrhythmia Detection: Created a deep learning model for ECG data analysis, achieving 87% accuracy.
-Real-Time Chat Application: Built a scalable chat application with WebSocket, Node.js, and Redis.
+## Cardiac Arrhythmia Detection: 
+Created a deep learning model for ECG data analysis, achieving 87% accuracy.
+## Real-Time Chat Application: 
+Built a scalable chat application with WebSocket, Node.js, and Redis.
+
 Automated Testing Framework: Developed with Selenium and Python, integrated into CI/CD pipelines.
-🌟 Let's Connect!
-I’m always eager to learn and collaborate on exciting projects. Connect with me on LinkedIn or email me at anchavan@csuchico.edu. Let's create impactful solutions together!
+
+# 🌟 Let's Connect!
+I’m always eager to learn and collaborate on exciting projects. Connect with me on LinkedIn or email me at amoschavan10@gmail.com. Let's create impactful solutions together!
 
